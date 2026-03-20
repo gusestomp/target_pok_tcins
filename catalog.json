@@ -73,7 +73,7 @@
             "set_code": "ME2.5",
             "set_name": "Ascended Heroes",
             "item_category": "Box",
-            "price": 49.99,
+            "price": 54.99,
             "image_url": "https://target.scene7.com/is/image/Target/GUEST_3bc977fd-d051-4fb4-be35-b50e97140763?qlt=85&fmt=webp&hei=600&wid=600",
             "url": "https://www.target.com/p/-/A-95093982",
             "release_date": "2026-3-20"
@@ -84,7 +84,7 @@
             "set_code": "ME2.5",
             "set_name": "Ascended Heroes",
             "item_category": "Box",
-            "price": 49.99,
+            "price": 54.99,
             "image_url": "https://target.scene7.com/is/image/Target/GUEST_2bb18323-144f-44ac-8063-f12aa8386b8a?qlt=85&fmt=webp&hei=600&wid=600",
             "url": "https://www.target.com/p/-/A-95093981",
             "release_date": "2026-3-20"
@@ -153,7 +153,7 @@
             "price": 28.99,
             "image_url": "https://target.scene7.com/is/image/Target/GUEST_4a710abd-408e-430b-b6a8-45dfc7811a2c?qlt=85&fmt=webp&hei=600&wid=600",
             "url": "https://www.target.com/p/-/A-95093989",
-            "release_date": "2099-12-31"
+            "release_date": "2026-3-20"
         },
         {
             "tcin": "95040142",
@@ -1441,6 +1441,17 @@
             "image_url": "https://target.scene7.com/is/image/Target/GUEST_24d98d7f-b1c9-4013-9adf-9a1bb5789045?qlt=85&fmt=pjpeg&hei=600&wid=600",
             "url": "https://www.target.com/p/-/A-88706348",
             "release_date": null
+        },
+        {
+            "tcin": "95280894",
+            "name": "Mega Zygarde Ex Premium Collection",
+            "set_code": "ASS BOX",
+            "set_name": "ASS BOX",
+            "item_category": "Box",
+            "price": 36.99,
+            "image_url": "",
+            "url": "https://www.target.com/p/-/A-95280894",
+            "release_date": "2026-5-26"
         },
         {
             "tcin": "95082138",
