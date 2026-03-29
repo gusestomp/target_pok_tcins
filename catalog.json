@@ -90,6 +90,39 @@
             "release_date": "2026-3-20"
         },
         {
+            "tcin": "1008581387",
+            "name": "Ascended Heroes Mega Emboar ex Box",
+            "set_code": "ME2.5",
+            "set_name": "Ascended Heroes",
+            "item_category": "Box",
+            "price": 22.99,
+            "image_url": "",
+            "url": "https://www.target.com/p/-/A-1008581387",
+            "release_date": "2026-04-26"
+        },
+        {
+            "tcin": "95163306",
+            "name": "Ascended Heroes Mega Feraligatr ex Box",
+            "set_code": "ME2.5",
+            "set_name": "Ascended Heroes",
+            "item_category": "Box",
+            "price": 22.99,
+            "image_url": "",
+            "url": "https://www.target.com/p/-/A-95163306",
+            "release_date": "2026-04-26"
+        },
+        {
+            "tcin": "95163305",
+            "name": "Ascended Heroes Mega Meganium ex Box",
+            "set_code": "ME2.5",
+            "set_name": "Ascended Heroes",
+            "item_category": "Box",
+            "price": 22.99,
+            "image_url": "",
+            "url": "https://www.target.com/p/-/A-95163305",
+            "release_date": "2026-04-26"
+        },
+        {
             "tcin": "95225595",
             "name": "First Partner Illustration Collection - Series 1",
             "set_code": "ME2.5",
