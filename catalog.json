@@ -2,6 +2,16 @@
     "version": "2026-03-19",
     "items": [
         {
+            "tcin": "95267143",
+            "name": "Chaos Rising Elite Trainer Box",
+            "set_code": "ME04",
+            "set_name": "Chaos Rising",
+            "image_url": "",
+            "price": "59.99",
+            "url": "https://www.target.com/p/-/A-95267143",
+            "release_date": "2026-05-22",
+        },
+        {
             "tcin": "95252674",
             "name": "Perfect Order Booster Box",
             "set_code": "ME03",
