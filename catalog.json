@@ -1,6 +1,16 @@
 {
-    "version": "2026-03-31",
+    "version": "2026-04-13",
     "items": [
+        {
+            "tcin": "1010679865",
+            "name": "Chaos Rising Booster Box",
+            "set_code": "ME04",
+            "set_name": "Chaos Rising",
+            "image_url": "",
+            "price": "179.99",
+            "url": "https://www.target.com/p/-/A-1010679865",
+            "release_date": "2026-05-22"
+        },
         {
             "tcin": "95267143",
             "name": "Chaos Rising Elite Trainer Box",
@@ -9,6 +19,16 @@
             "image_url": "",
             "price": "59.99",
             "url": "https://www.target.com/p/-/A-95267143",
+            "release_date": "2026-05-22"
+        },
+        {
+            "tcin": "95298172",
+            "name": "Chaos Rising Booster Bundle",
+            "set_code": "ME04",
+            "set_name": "Chaos Rising",
+            "image_url": "",
+            "price": "29.99",
+            "url": "https://www.target.com/p/-/A-95298172",
             "release_date": "2026-05-22"
         },
         {
