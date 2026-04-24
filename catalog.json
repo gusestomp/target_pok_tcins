@@ -1,5 +1,5 @@
 {
-    "version": "2026-04-22",
+    "version": "2026-04-23",
     "items": [
         {
             "tcin": "1010679865",
@@ -33,11 +33,11 @@
         },
         {
             "tcin": "95298174",
-            "name": "Chaos Rising Booster Bundle",
+            "name": "Chaos Rising 3pk Blister (Charmeleon)",
             "set_code": "ME04",
             "set_name": "Chaos Rising",
             "image_url": "",
-            "price": "29.99",
+            "price": "15.99",
             "url": "https://www.target.com/p/-/A-95298174",
             "release_date": "2026-05-22"
         },
