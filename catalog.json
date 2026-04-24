@@ -6,7 +6,7 @@
             "name": "Chaos Rising Booster Box",
             "set_code": "ME04",
             "set_name": "Chaos Rising",
-            "image_url": "",
+            "image_url": "https://target.scene7.com/is/image/Target/GUEST_8b2bc269-be51-4c53-9455-af48e36e1367?qlt=85&fmt=webp&hei=600&wid=600",
             "price": "179.99",
             "url": "https://www.target.com/p/-/A-1010679865",
             "release_date": "2026-05-22"
@@ -16,7 +16,7 @@
             "name": "Chaos Rising Elite Trainer Box",
             "set_code": "ME04",
             "set_name": "Chaos Rising",
-            "image_url": "",
+            "image_url": "https://target.scene7.com/is/image/Target/GUEST_9a0e801e-fad5-4f22-905d-5c167f03ac41?qlt=85&fmt=webp&hei=600&wid=600",
             "price": "59.99",
             "url": "https://www.target.com/p/-/A-95267143",
             "release_date": "2026-05-22"
@@ -26,7 +26,7 @@
             "name": "Chaos Rising Booster Bundle",
             "set_code": "ME04",
             "set_name": "Chaos Rising",
-            "image_url": "",
+            "image_url": "https://target.scene7.com/is/image/Target/GUEST_de896676-8332-46bd-b36f-d863b43df7ad?qlt=85&fmt=webp&hei=600&wid=600",
             "price": "29.99",
             "url": "https://www.target.com/p/-/A-95298172",
             "release_date": "2026-05-22"
@@ -36,7 +36,7 @@
             "name": "Chaos Rising 3pk Blister (Charmeleon)",
             "set_code": "ME04",
             "set_name": "Chaos Rising",
-            "image_url": "",
+            "image_url": "https://target.scene7.com/is/image/Target/GUEST_b918d159-3a95-44aa-a52f-792c0555cd65?qlt=85&fmt=webp&hei=600&wid=600",
             "price": "15.99",
             "url": "https://www.target.com/p/-/A-95298174",
             "release_date": "2026-05-22"
@@ -1522,9 +1522,9 @@
             "set_name": "ASS BOX",
             "item_category": "Box",
             "price": 36.99,
-            "image_url": "",
+            "image_url": "https://target.scene7.com/is/image/Target/GUEST_a13ee24a-1bbb-4a84-a969-59c6af478036?qlt=85&fmt=webp&hei=600&wid=600",
             "url": "https://www.target.com/p/-/A-95280894",
-            "release_date": "2026-5-26"
+            "release_date": "2026-05-26"
         },
         {
             "tcin": "95082138",
