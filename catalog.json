@@ -1976,6 +1976,17 @@
             "image_url": "https://target.scene7.com/is/image/Target/GUEST_a1af4a5f-2e39-4b74-8e76-c7e8bd832737?wid=600&hei=600&qlt=80&fmt=webp",
             "url": "https://www.target.com/p/-/A-94859957",
             "release_date": null
+        },
+        {
+            "tcin": "94946093",
+            "name": "Wireless Keyboard - Pokémon x Target",
+            "set_code": "ASS TIN",
+            "set_name": "ASS TIN",
+            "item_category": "Tin",
+            "price": 39.99,
+            "image_url": "https://target.scene7.com/is/image/Target/GUEST_115eac72-c028-43fd-9712-01f994e7cabd?wid=600&hei=600&qlt=80&fmt=webp",
+            "url": "https://www.target.com/p/-/A-94946093",
+            "release_date": null
         }
     ]
 }
