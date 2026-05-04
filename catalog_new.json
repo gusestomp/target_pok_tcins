@@ -1966,5 +1966,111 @@
             "url": "https://www.target.com/p/-/A-91670548",
             "release_date": null
         }
-    ]
+    ],
+    "category_names": {
+        "ME04": {
+            "display_name": "ME04 - CHAOS RISING",
+            "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/_tiles/me/me04/announce/me04-announce-169-en.png"
+        },
+        "ME03": {
+            "display_name": "ME03 - PERFECT ORDER",
+            "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/_tiles/me/me03/announce/me03-announce-169-en.png"
+        },
+        "ME2.5": {
+            "display_name": "ME2.5 - ASCENDED HEROES",
+            "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/_tiles/me/me2pt5/announce/me2pt5-announce-169-en.png"
+        },
+        "ME02": {
+            "display_name": "ME02 - PHANTASMAL FLAMES",
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%2Fid%2FOIP.cPrCh2KqXYbINqeOuVo4LQHaEK%3Fcb%3Ducfimg2%26pid%3DApi%26ucfimg%3D1&f=1&ipt=c2a960549a7dc7829fc11a1fc241960808f47be628966995ac577b4893c0739d&ipo=images"
+        },
+        "ME01": {
+            "display_name": "ME01 - MEGA EVOLUTION BASE SET",
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.4FBHSlI91TdjWqXZlpkpGwHaEK%3Fcb%3Ducfimg2%26pid%3DApi%26ucfimg%3D1&f=1&ipt=ee037f091a75ee22e9d25284f1b7e3a88537017da6a726458e56338e6586feff&ipo=images"
+        },
+        "SV10.5": {
+            "display_name": "SV10.5 - BLACK BOLT & WHITE FLARE",
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.fhh9gFK5f12PSlFwl-k6GAHaDt%3Fcb%3Ducfimg2%26pid%3DApi%26ucfimg%3D1&f=1&ipt=59a47ec20ee82314574b92bd2adb72f6690a7e61765496c959569f76c5782a91&ipo=images"
+        },
+        "SV10": {
+            "display_name": "SV10 - DESTINED RIVALS",
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.DxGsICyQFgD3jRFbo3-m4gHaEK%3Fpid%3DApi&f=1&ipt=b461e216cde2489932fd55fe7c37269da8707ae932498531e3353f7449320024&ipo=images"
+        },
+        "SV09": {
+            "display_name": "SV09 - JOURNEY TOGETHER",
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.bbaziOqfexJeCV24CkqQTAHaEK%3Fcb%3Ducfimg2%26pid%3DApi%26ucfimg%3D1&f=1&ipt=1e6abdf4a13fd4f116d39c59936f164e675780dbb1a7e7daf9415561dce877c6&ipo=images"
+        },
+        "SV8.5": {
+            "display_name": "SV8.5 – PRISMATIC EVOLUTIONS",
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%2Fid%2FOIP.LARTNMahrlbdGBYVCyrigwHaDb%3Fcb%3Ducfimg2%26pid%3DApi%26ucfimg%3D1&f=1&ipt=cd0c7c97957f23478d060aa52188fa8cf97856d936a5949b11bd0a896246a049&ipo=images"
+        },
+        "SV08": {
+            "display_name": "SV08 - SURGING SPARKS",
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.J4TYgpWGDLCPhSl2bhEsFQHaE7%3Fcb%3Ducfimg2%26pid%3DApi%26ucfimg%3D1&f=1&ipt=ca4336f90a4fe67cf25635edeb2cb7f170f266e75a2f647ceecd540930a5ae9c&ipo=images"
+        },
+        "SV07": {
+            "display_name": "SV07 - STELLAR CROWN",
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.TbBHSGRAndkU3lBeUgbSEwHaDt%3Fpid%3DApi&f=1&ipt=58ff66dcf07670064bbcd499472fb2be1030268db207b90013358f33a193200b&ipo=images"
+        },
+        "SV6.5": {
+            "display_name": "SV6.5 - SHROUDED FABLE",
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.0cxnE667jI4xiPUEKwNt0gHaEK%3Fcb%3Ducfimgc2%26pid%3DApi&f=1&ipt=bea1fe0e4e672e026657e275f22e4a515072d9015cdde523a476c730b0a77173&ipo=images"
+        },
+        "SV06": {
+            "display_name": "SV06 - TWILIGHT MASQUERADE",
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.FmC-tOydnjH5EegNY37eOQHaD3%3Fcb%3Ducfimg2%26pid%3DApi%26ucfimg%3D1&f=1&ipt=3ac2d3a598899a0fb5cf7440d5a63ade0f94aa3b815ebbc18df5c3778462843b&ipo=images"
+        },
+        "SV05": {
+            "display_name": "SV05 - TEMPORAL FORCES",
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.njFMGsXGGQnQQohdqYt-7AHaEM%3Fcb%3Ducfimg2%26pid%3DApi%26ucfimg%3D1&f=1&ipt=d331bed2e0a15ea517e961041ecf787604dad55f0eb8ee29968b34ce8d80d4e8&ipo=images"
+        },
+        "SV4.5": {
+            "display_name": "SV4.5 - PALDEAN FATES",
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.DWks83KegxKExGuf_S1_GwHaEM%3Fcb%3Ducfimg2%26pid%3DApi%26ucfimg%3D1&f=1&ipt=c8bd2009a131a2d65bbe05efcb2765b472421a71d1a8a06e2b0c870eabbbbe63&ipo=images"
+        },
+        "SV04": {
+            "display_name": "SV04 - PARADOX RIFT",
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.u7xGB0JSN4QeENz-4zEOHAHaEO%3Fcb%3Ducfimg2%26pid%3DApi%26ucfimg%3D1&f=1&ipt=f941a682ba95b81c96f214eda446a06d54843bb55299ae6138593b17658b98a3&ipo=images"
+        },
+        "SV3.5": {
+            "display_name": "SV3.5 - 151",
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.odc3W_5GMV6Vbw3mzXJToQHaC7%3Fcb%3Ducfimg2%26pid%3DApi%26ucfimg%3D1&f=1&ipt=d36fee62be59a18d276889225121295e9ab1df54aee5966596e86e991bb5cc67&ipo=images"
+        },
+        "SV03": {
+            "display_name": "SV03 - OBSIDIAN FLAMES",
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.LgGG_X_h3ZtVEGgSMBS9cAHaC-%3Fcb%3Ducfimg2%26pid%3DApi%26ucfimg%3D1&f=1&ipt=8ded0cc08a52d5212d81cae8e988a5e0ac3ce8160ec19870e455377cc391d7b4&ipo=images"
+        },
+        "SV02": {
+            "display_name": "SV02 - PALDEA EVOLVED",
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.F6YzRhcrQUMlj0xC-em4dgHaDt%3Fcb%3Ducfimg2%26pid%3DApi%26ucfimg%3D1&f=1&ipt=769002ff61724a3a06b12f09ef00c40d0ed16d673d595bf4688b421489208d45&ipo=images"
+        },
+        "SV01": {
+            "display_name": "SV01 - SCARLET & VIOLET BASE SET",
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.AJ9boDDvFFIekvoqVBTETAHaEM%3Fcb%3Ducfimg2%26pid%3DApi%26ucfimg%3D1&f=1&ipt=45df2ded9e0e0d9701c00af8de493129467685bfa11a9e58963e6938d5935076&ipo=images"
+        },
+        "SWSH12.5": {
+            "display_name": "SWSH12.5 - CROWN ZENITH",
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.FGXsRmXHJFztWAQWAODTKAHaEK%3Fpid%3DApi%26ucfimg%3D1&f=1&ipt=fb1a870c3cb701fc9130a83e1dab3e558d62cf9312db7de45b7bcc2237a13fe7&ipo=images"
+        },
+        "ASS BOX": {
+            "display_name": "ASSORTED BOXES",
+            "image": ""
+        },
+        "ASS TIN": {
+            "display_name": "ASSORTED TINS",
+            "image": ""
+        }
+    },
+    "product_type_display_priority": {
+        "Booster Box": 1,
+        "ETB": 2,
+        "Booster Bundle": 3,
+        "Binder": 4,
+        "Box": 5,
+        "Poster": 6,
+        "3pk": 7,
+        "2pk": 8,
+        "UPC": 9,
+        "Tin": 10
+    }
 }
