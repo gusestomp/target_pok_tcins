@@ -1,5 +1,5 @@
 {
-    "version": "2026-05-03",
+    "version": "2026-05-08",
     "items": [
         {
             "tcin": "1010679865",
@@ -1777,6 +1777,17 @@
             "price": 29.99,
             "image_url": "https://target.scene7.com/is/image/Target/GUEST_4c77bfb6-e258-4e1c-8de4-716f80cf1749?wid=600&hei=600",
             "url": "https://www.target.com/p/-/A-89952654",
+            "release_date": null
+        },
+        {
+            "tcin": "1010892077",
+            "name": "Mega Moonlit Tin - Mega Gengar",
+            "set_code": "ASS TIN",
+            "set_name": "ASS TIN",
+            "item_category": "Tin",
+            "price": 24.99,
+            "image_url": "https://target.scene7.com/is/image/Target/GUEST_2e00b9aa-47e6-4b87-8623-b609732473b7?qlt=85&fmt=webp&hei=600&wid=600",
+            "url": "https://www.target.com/p/-/A-1010892077",
             "release_date": null
         },
         {
