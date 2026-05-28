@@ -2,10 +2,55 @@
     "version": "2026-05-08",
     "items": [
         {
+            "tcin": "1011483413",
+            "name": "Pitch Black Booster Box",
+            "set_code": "ME05",
+            "set_name": "Pitch Black",
+            "item_category": "Booster Box",
+            "image_url": "",
+            "price": "179.99",
+            "url": "https://www.target.com/p/-/A-1011483413",
+            "release_date": "2026-07-17"
+        },
+        {
+            "tcin": "1011483406",
+            "name": "Pitch Black Elite Trainer Box",
+            "set_code": "ME05",
+            "set_name": "Pitch Black",
+            "item_category": "ETB",
+            "image_url": "",
+            "price": "59.99",
+            "url": "https://www.target.com/p/-/A-1011483406",
+            "release_date": "2026-07-17"
+        },
+        {
+            "tcin": "1011483414",
+            "name": "Pitch Black Booster Bundle",
+            "set_code": "ME05",
+            "set_name": "Pitch Black",
+            "item_category": "Booster Bundle",
+            "image_url": "",
+            "price": "29.99",
+            "url": "https://www.target.com/p/-/A-1011483414",
+            "release_date": "2026-07-17"
+        },
+        {
+            "tcin": "1011483408",
+            "name": "Pitch Black 3pk Blister (Binacle)",
+            "set_code": "ME05",
+            "set_name": "Pitch Black",
+            "item_category": "3pk",
+            "image_url": "",
+            "price": "14.99",
+            "url": "https://www.target.com/p/-/A-1011483408",
+            "release_date": "2026-07-17"
+        },
+        {
             "tcin": "1010679865",
             "name": "Chaos Rising Booster Box",
             "set_code": "ME04",
             "set_name": "Chaos Rising",
+            "item_category": "Booster Box",
             "image_url": "https://target.scene7.com/is/image/Target/GUEST_8b2bc269-be51-4c53-9455-af48e36e1367?qlt=85&fmt=webp&hei=600&wid=600",
             "price": "179.99",
             "url": "https://www.target.com/p/-/A-1010679865",
@@ -16,6 +61,7 @@
             "name": "Chaos Rising Elite Trainer Box",
             "set_code": "ME04",
             "set_name": "Chaos Rising",
+            "item_category": "ETB",
             "image_url": "https://target.scene7.com/is/image/Target/GUEST_9a0e801e-fad5-4f22-905d-5c167f03ac41?qlt=85&fmt=webp&hei=600&wid=600",
             "price": "59.99",
             "url": "https://www.target.com/p/-/A-95267143",
@@ -26,6 +72,7 @@
             "name": "Chaos Rising Booster Bundle",
             "set_code": "ME04",
             "set_name": "Chaos Rising",
+            "item_category": "Booster Bundle",
             "image_url": "https://target.scene7.com/is/image/Target/GUEST_de896676-8332-46bd-b36f-d863b43df7ad?qlt=85&fmt=webp&hei=600&wid=600",
             "price": "29.99",
             "url": "https://www.target.com/p/-/A-95298172",
@@ -36,6 +83,7 @@
             "name": "Chaos Rising 3pk Blister (Charmeleon)",
             "set_code": "ME04",
             "set_name": "Chaos Rising",
+            "item_category": "3pk",
             "image_url": "https://target.scene7.com/is/image/Target/GUEST_b918d159-3a95-44aa-a52f-792c0555cd65?qlt=85&fmt=webp&hei=600&wid=600",
             "price": "14.99",
             "url": "https://www.target.com/p/-/A-95298174",
@@ -1990,6 +2038,10 @@
         }
     ],
     "category_names": {
+        "ME05": {
+            "display_name": "ME05 - PITCH BLACK",
+            "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/_tiles/me/me05/announce/me05-announce-169-en.png"
+        },
         "ME04": {
             "display_name": "ME04 - CHAOS RISING",
             "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/_tiles/me/me04/announce/me04-announce-169-en.png"
@@ -2004,11 +2056,11 @@
         },
         "ME02": {
             "display_name": "ME02 - PHANTASMAL FLAMES",
-            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%2Fid%2FOIP.cPrCh2KqXYbINqeOuVo4LQHaEK%3Fcb%3Ducfimg2%26pid%3DApi%26ucfimg%3D1&f=1&ipt=c2a960549a7dc7829fc11a1fc241960808f47be628966995ac577b4893c0739d&ipo=images"
+            "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/_tiles/me/me02/announce/me02-announce-169-en.png"
         },
         "ME01": {
             "display_name": "ME01 - MEGA EVOLUTION BASE SET",
-            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.4FBHSlI91TdjWqXZlpkpGwHaEK%3Fcb%3Ducfimg2%26pid%3DApi%26ucfimg%3D1&f=1&ipt=ee037f091a75ee22e9d25284f1b7e3a88537017da6a726458e56338e6586feff&ipo=images"
+            "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/_tiles/me/me01/announce/me01-announce-169-en.png"
         },
         "SV10.5": {
             "display_name": "SV10.5 - BLACK BOLT & WHITE FLARE",
