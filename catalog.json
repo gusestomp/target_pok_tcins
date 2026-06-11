@@ -1,5 +1,5 @@
 {
-    "version": "2026-05-28",
+    "version": "2026-06-11",
     "items": [
         {
             "tcin": "1011483413",
@@ -981,14 +981,14 @@
             "release_date": null
         },
         {
-            "tcin": "91255505",
+            "tcin": "1011701039",
             "name": "Temporal Forces Walking Wake Elite Trainer Box",
             "set_code": "SV05",
             "set_name": "Temporal Forces",
             "item_category": "ETB",
             "price": 49.99,
             "image_url": "https://target.scene7.com/is/image/Target/GUEST_62cd47af-eea0-4be0-9ae5-7974c65fa6f7?wid=600&hei=600&qlt=80&fmt=webp",
-            "url": "https://www.target.com/p/-/A-91255505",
+            "url": "https://www.target.com/p/-/A-1011701039",
             "release_date": null
         },
         {
@@ -1562,6 +1562,17 @@
             "image_url": "https://target.scene7.com/is/image/Target/GUEST_a13ee24a-1bbb-4a84-a969-59c6af478036?qlt=85&fmt=webp&hei=600&wid=600",
             "url": "https://www.target.com/p/-/A-95280894",
             "release_date": "2026-05-26"
+        },
+        {
+            "tcin": "1011209273",
+            "name": "Mega Greninja Ex Premium Collection",
+            "set_code": "ASS BOX",
+            "set_name": "ASS BOX",
+            "item_category": "Box",
+            "price": 36.99,
+            "image_url": "",
+            "url": "https://www.target.com/p/-/A-1011209273",
+            "release_date": "2026-07-03"
         },
         {
             "tcin": "95225595",
