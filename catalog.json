@@ -2057,6 +2057,39 @@
             "image_url": "https://target.scene7.com/is/image/Target/GUEST_7d4df2e4-e4e0-4688-9231-9a6cecdef42f?wid=600&hei=600&qlt=80&fmt=webp",
             "url": "https://www.target.com/p/-/A-91670548",
             "release_date": null
+        },
+        {
+            "tcin": "95120827",
+            "name": "The Time of Battle Double Pack Set 1",
+            "set_code": "ASS TIN",
+            "set_name": "ASS TIN",
+            "item_category": "Tin",
+            "price": 0.00,
+            "image_url": "",
+            "url": "https://www.target.com/p/-/A-95120827",
+            "release_date": null
+        },
+        {
+            "tcin": "95042136",
+            "name": "Starter Deck Ex - Luffy & Ace ST30",
+            "set_code": "ASS TIN",
+            "set_name": "ASS TIN",
+            "item_category": "Tin",
+            "price": 0.00,
+            "image_url": "",
+            "url": "https://www.target.com/p/-/A-95042136",
+            "release_date": null
+        },
+        {
+            "tcin": "95290388",
+            "name": "Lorcana Wilds Unknown Illumineer's Trove",
+            "set_code": "ASS TIN",
+            "set_name": "ASS TIN",
+            "item_category": "Tin",
+            "price": 49.99,
+            "image_url": "https://target.scene7.com/is/image/Target/GUEST_628ff133-c307-4633-b691-ac6e02ad6baa?format=webp",
+            "url": "https://www.target.com/p/-/A-95290388",
+            "release_date": null
         }
     ]
 }
