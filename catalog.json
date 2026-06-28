@@ -150,7 +150,7 @@
             "set_code": "ME2.5",
             "set_name": "Ascended Heroes",
             "item_category": "Booster Bundle",
-            "price": 29.99,
+            "price": 31.99,
             "image_url": "https://target.scene7.com/is/image/Target/GUEST_9dd7cad1-8ab1-4245-a995-9849a72c1efa?qlt=85&fmt=webp&hei=600&wid=600",
             "url": "https://www.target.com/p/-/A-95120834",
             "release_date": "2026-04-24"
@@ -1580,7 +1580,7 @@
             "set_code": "ASS BOX",
             "set_name": "ASS BOX",
             "item_category": "Box",
-            "price": 15.99,
+            "price": 17.99,
             "image_url": "https://target.scene7.com/is/image/Target/GUEST_cdeb1f00-4b02-45e6-af0c-7ed9f5c0215b?qlt=85&fmt=webp&hei=600&wid=600",
             "url": "https://www.target.com/p/-/A-95225595",
             "release_date": "2026-03-20"
@@ -1591,7 +1591,7 @@
             "set_code": "ASS BOX",
             "set_name": "ASS BOX",
             "item_category": "Box",
-            "price": 15.99,
+            "price": 17.99,
             "image_url": "https://target.scene7.com/is/image/Target/GUEST_b7769337-8fed-43aa-9b50-03ab540f5e9c?qlt=85&fmt=webp&hei=600&wid=600",
             "url": "https://www.target.com/p/-/A-1011209279",
             "release_date": "2026-06-01"
@@ -2056,39 +2056,6 @@
             "price": 26.99,
             "image_url": "https://target.scene7.com/is/image/Target/GUEST_7d4df2e4-e4e0-4688-9231-9a6cecdef42f?wid=600&hei=600&qlt=80&fmt=webp",
             "url": "https://www.target.com/p/-/A-91670548",
-            "release_date": null
-        },
-        {
-            "tcin": "95120827",
-            "name": "The Time of Battle Double Pack Set 1",
-            "set_code": "ASS TIN",
-            "set_name": "ASS TIN",
-            "item_category": "Tin",
-            "price": 0.00,
-            "image_url": "",
-            "url": "https://www.target.com/p/-/A-95120827",
-            "release_date": null
-        },
-        {
-            "tcin": "95042136",
-            "name": "Starter Deck Ex - Luffy & Ace ST30",
-            "set_code": "ASS TIN",
-            "set_name": "ASS TIN",
-            "item_category": "Tin",
-            "price": 0.00,
-            "image_url": "",
-            "url": "https://www.target.com/p/-/A-95042136",
-            "release_date": null
-        },
-        {
-            "tcin": "95290388",
-            "name": "Lorcana Wilds Unknown Illumineer's Trove",
-            "set_code": "ASS TIN",
-            "set_name": "ASS TIN",
-            "item_category": "Tin",
-            "price": 49.99,
-            "image_url": "https://target.scene7.com/is/image/Target/GUEST_628ff133-c307-4633-b691-ac6e02ad6baa?format=webp",
-            "url": "https://www.target.com/p/-/A-95290388",
             "release_date": null
         }
     ]
