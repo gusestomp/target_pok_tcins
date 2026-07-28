@@ -1,5 +1,5 @@
 {
-    "version": "2026-07-14",
+    "version": "2026-07-27",
     "items": [
         {
             "tcin": "1011483413",
@@ -1583,7 +1583,7 @@
             "price": 17.99,
             "image_url": "",
             "url": "https://www.target.com/p/-/A-1011960739",
-            "release_date": "2026-08-07-"
+            "release_date": "2026-08-07"
         },
         {
             "tcin": "95280894",
@@ -2067,17 +2067,6 @@
             "price": 26.99,
             "image_url": "https://target.scene7.com/is/image/Target/GUEST_7d4df2e4-e4e0-4688-9231-9a6cecdef42f?wid=600&hei=600&qlt=80&fmt=webp",
             "url": "https://www.target.com/p/-/A-91670548",
-            "release_date": null
-        },
-        {
-            "tcin": "1012055705",
-            "name": "Magic the Gathering: Omega Box",
-            "set_code": "ASS TIN",
-            "set_name": "ASS TIN",
-            "item_category": "Tin",
-            "price": 44.99,
-            "image_url": "https://target.scene7.com/is/image/Target/GUEST_bba0e1d2-7b09-442d-a961-33d48c684c3b??wid=600&hei=600&qlt=80&fmt=webp",
-            "url": "https://www.target.com/p/-/A-1012055705",
             "release_date": null
         }
     ],
