@@ -3,12 +3,12 @@
     "items": [
         {
             "tcin": "1010892069",
-            "name": "30th Celebration Mini Tins???",
+            "name": "30th Celebration Tin",
             "set_code": "ME5.5",
             "set_name": "30th Celebration",
             "item_category": "Tin",
-            "image_url": "",
-            "price": "10.99",
+            "image_url": "https://target.scene7.com/is/image/Target/GUEST_d9d7ff82-a91c-4587-9dac-b9aaa88e8b33?wid=725&hei=725&qlt=80",
+            "price": "29.99",
             "url": "https://www.target.com/p/-/A-1010892069",
             "release_date": "2026-09-16"
         },
@@ -18,8 +18,8 @@
             "set_code": "ME5.5",
             "set_name": "30th Celebration",
             "item_category": "Poster",
-            "image_url": "",
-            "price": "15.99",
+            "image_url": "https://target.scene7.com/is/image/Target/GUEST_caff1c6e-b09a-498d-99d5-d5b66202fa70?wid=725&hei=725&qlt=80&fmt=pjpeg",
+            "price": "19.99",
             "url": "https://www.target.com/p/-/A-1010892067",
             "release_date": "2026-09-16"
         },
@@ -36,23 +36,23 @@
         },
         {
             "tcin": "1010892065",
-            "name": "30th Celebration ex Box (Box 2)",
+            "name": "30th Celebration Greninja ex Box",
             "set_code": "ME5.5",
             "set_name": "30th Celebration",
             "item_category": "Box",
-            "image_url": "",
-            "price": "24.99",
+            "image_url": "https://target.scene7.com/is/image/Target/GUEST_5f91a99f-2a33-4c89-8dbf-db1243d413a2?wid=725&hei=725&qlt=80&fmt=pjpeg",
+            "price": "29.99",
             "url": "https://www.target.com/p/-/A-1010892065",
             "release_date": "2026-"
         },
         {
             "tcin": "1010892068",
-            "name": "30th Celebration ex Box (Box 1)",
+            "name": "30th Celebration Sylveon ex Box",
             "set_code": "ME5.5",
             "set_name": "30th Celebration",
             "item_category": "Box",
             "image_url": "",
-            "price": "24.99",
+            "price": "29.99",
             "url": "https://www.target.com/p/-/A-1010892068",
             "release_date": "2026-09-16"
         },
