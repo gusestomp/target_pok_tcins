@@ -1,6 +1,83 @@
 {
-    "version": "2026-07-27",
+    "version": "2026-08-13",
     "items": [
+        {
+            "tcin": "1010892069",
+            "name": "30th Celebration Mini Tins???",
+            "set_code": "ME5.5",
+            "set_name": "30th Celebration",
+            "item_category": "Tin",
+            "image_url": "",
+            "price": "10.99",
+            "url": "https://www.target.com/p/-/A-1010892069",
+            "release_date": "2026-09-16"
+        },
+        {
+            "tcin": "1010892067",
+            "name": "30th Celebration Poster Collection",
+            "set_code": "ME5.5",
+            "set_name": "30th Celebration",
+            "item_category": "Poster",
+            "image_url": "",
+            "price": "15.99",
+            "url": "https://www.target.com/p/-/A-1010892067",
+            "release_date": "2026-09-16"
+        },
+        {
+            "tcin": "1010892070",
+            "name": "30th Celebration Knockout Collection Box",
+            "set_code": "ME5.5",
+            "set_name": "30th Celebration",
+            "item_category": "Box",
+            "image_url": "",
+            "price": "10.99",
+            "url": "https://www.target.com/p/-/A-1010892070",
+            "release_date": "2026-09-16"
+        },
+        {
+            "tcin": "1010892065",
+            "name": "30th Celebration ex Box (Box 2)",
+            "set_code": "ME5.5",
+            "set_name": "30th Celebration",
+            "item_category": "Box",
+            "image_url": "",
+            "price": "24.99",
+            "url": "https://www.target.com/p/-/A-1010892065",
+            "release_date": "2026-"
+        },
+        {
+            "tcin": "1010892068",
+            "name": "30th Celebration ex Box (Box 1)",
+            "set_code": "ME5.5",
+            "set_name": "30th Celebration",
+            "item_category": "Box",
+            "image_url": "",
+            "price": "24.99",
+            "url": "https://www.target.com/p/-/A-1010892068",
+            "release_date": "2026-09-16"
+        },
+        {
+            "tcin": "1010892076",
+            "name": "30th Celebration Elite Trainer Box",
+            "set_code": "ME5.5",
+            "set_name": "30th Celebration",
+            "item_category": "ETB",
+            "image_url": "",
+            "price": "69.99",
+            "url": "https://www.target.com/p/-/A-1010892076",
+            "release_date": "2026-09-16"
+        },
+        {
+            "tcin": "1010892078",
+            "name": "30th Celebration Tech Sticker Collection",
+            "set_code": "ME5.5",
+            "set_name": "30th Celebration",
+            "item_category": "3pk",
+            "image_url": "",
+            "price": "18.99",
+            "url": "https://www.target.com/p/-/A-1010892078",
+            "release_date": "2026-09-16"
+        },
         {
             "tcin": "1011483413",
             "name": "Pitch Black Booster Box",
@@ -2071,6 +2148,10 @@
         }
     ],
     "category_names": {
+        "ME5.5": {
+            "display_name": "ME5.5 - 30TH CELEBRATION",
+            "image": "https://www.nintendojo.com/wp-content/uploads/2026/07/Pokemon-30-Product-Lineup-Masthead-2048x1152.png"
+        },
         "ME05": {
             "display_name": "ME05 - PITCH BLACK",
             "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/_tiles/me/me05/announce/me05-announce-169-en.png"
