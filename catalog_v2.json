@@ -343,6 +343,39 @@
             "release_date": "2026-03-20"
         },
         {
+            "tcin": "1012644667",
+            "name": "Ascended Heroes Emboar Tin",
+            "set_code": "ME2.5",
+            "set_name": "Ascended Heroes",
+            "item_category": "Tin",
+            "price": 24.99,
+            "image_url": "",
+            "url": "https://www.target.com/p/-/A-1012644667",
+            "release_date": "2026-08-28"
+        },
+        {
+            "tcin": "1012644665",
+            "name": "Ascended Heroes Meganium Tin",
+            "set_code": "ME2.5",
+            "set_name": "Ascended Heroes",
+            "item_category": "Tin",
+            "price": 24.99,
+            "image_url": "",
+            "url": "https://www.target.com/p/-/A-1012644665",
+            "release_date": "2026-08-28"
+        },
+        {
+            "tcin": "1012644666",
+            "name": "Ascended Heroes Feraligatr Tin",
+            "set_code": "ME2.5",
+            "set_name": "Ascended Heroes",
+            "item_category": "Tin",
+            "price": 24.99,
+            "image_url": "",
+            "url": "https://www.target.com/p/-/A-1012644666",
+            "release_date": "2026-08-28"
+        },
+        {
             "tcin": "95040142",
             "name": "Phantasmal Flames Booster Box",
             "set_code": "ME02",
