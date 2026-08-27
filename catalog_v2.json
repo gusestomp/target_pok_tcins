@@ -344,7 +344,7 @@
         },
         {
             "tcin": "1012644667",
-            "name": "Ascended Heroes Emboar Tin",
+            "name": "Ascended Heroes Mega Emboar ex Tin",
             "set_code": "ME2.5",
             "set_name": "Ascended Heroes",
             "item_category": "Tin",
@@ -355,7 +355,7 @@
         },
         {
             "tcin": "1012644665",
-            "name": "Ascended Heroes Meganium Tin",
+            "name": "Ascended Heroes Mega Meganium ex Tin",
             "set_code": "ME2.5",
             "set_name": "Ascended Heroes",
             "item_category": "Tin",
@@ -366,7 +366,7 @@
         },
         {
             "tcin": "1012644666",
-            "name": "Ascended Heroes Feraligatr Tin",
+            "name": "Ascended Heroes Mega Feraligatr ex Tin",
             "set_code": "ME2.5",
             "set_name": "Ascended Heroes",
             "item_category": "Tin",
@@ -1969,6 +1969,39 @@
             "image_url": "https://target.scene7.com/is/image/Target/GUEST_4c77bfb6-e258-4e1c-8de4-716f80cf1749?wid=600&hei=600",
             "url": "https://www.target.com/p/-/A-89952654",
             "release_date": null
+        },
+        {
+            "tcin": "1012944745",
+            "name": "Mega Forces Darkrai ex Tin",
+            "set_code": "ASS TIN",
+            "set_name": "ASS TIN",
+            "item_category": "Tin",
+            "price": 24.99,
+            "image_url": "",
+            "url": "https://www.target.com/p/-/A-1012944745",
+            "release_date": "2026-08-18"
+        },
+        {
+            "tcin": "1012944747",
+            "name": "Mega Forces Dragonite ex Tin",
+            "set_code": "ASS TIN",
+            "set_name": "ASS TIN",
+            "item_category": "Tin",
+            "price": 24.99,
+            "image_url": "",
+            "url": "https://www.target.com/p/-/A-1012944747",
+            "release_date": "2026-08-18"
+        },
+        {
+            "tcin": "1012944748",
+            "name": "Mega Forces Zeraora ex Tin",
+            "set_code": "ASS TIN",
+            "set_name": "ASS TIN",
+            "item_category": "Tin",
+            "price": 24.99,
+            "image_url": "",
+            "url": "https://www.target.com/p/-/A-1012944748",
+            "release_date": "2026-08-18"
         },
         {
             "tcin": "1010892073",
