@@ -1,5 +1,5 @@
 {
-    "version": "2026-08-13",
+    "version": "2026-08-29",
     "items": [
         {
             "tcin": "1010892069",
@@ -7,7 +7,7 @@
             "set_code": "ME5.5",
             "set_name": "30th Celebration",
             "item_category": "Tin",
-            "image_url": "https://target.scene7.com/is/image/Target/GUEST_d9d7ff82-a91c-4587-9dac-b9aaa88e8b33?wid=725&hei=725&qlt=85",
+            "image_url": "https://target.scene7.com/is/image/Target/GUEST_d9d7ff82-a91c-4587-9dac-b9aaa88e8b33?wid=600&hei=600&qlt=85",
             "price": "29.99",
             "url": "https://www.target.com/p/-/A-1010892069",
             "release_date": "2026-09-16"
@@ -18,7 +18,7 @@
             "set_code": "ME5.5",
             "set_name": "30th Celebration",
             "item_category": "Poster",
-            "image_url": "https://target.scene7.com/is/image/Target/GUEST_caff1c6e-b09a-498d-99d5-d5b66202fa70?wid=725&hei=725&qlt=85&fmt=pjpeg",
+            "image_url": "https://target.scene7.com/is/image/Target/GUEST_caff1c6e-b09a-498d-99d5-d5b66202fa70?wid=600&hei=600&qlt=85&fmt=pjpeg",
             "price": "19.99",
             "url": "https://www.target.com/p/-/A-1010892067",
             "release_date": "2026-09-16"
@@ -29,8 +29,8 @@
             "set_code": "ME5.5",
             "set_name": "30th Celebration",
             "item_category": "Box",
-            "image_url": "",
-            "price": "10.99",
+            "image_url": "https://target.scene7.com/is/image/Target/GUEST_f9e7c2d5-6716-4b74-8e38-d3d52fda19ab?wid=600&hei=600&qlt=85",
+            "price": "11.99",
             "url": "https://www.target.com/p/-/A-1010892070",
             "release_date": "2026-09-16"
         },
@@ -40,10 +40,10 @@
             "set_code": "ME5.5",
             "set_name": "30th Celebration",
             "item_category": "Box",
-            "image_url": "https://target.scene7.com/is/image/Target/GUEST_5f91a99f-2a33-4c89-8dbf-db1243d413a2?wid=725&hei=725&qlt=85&fmt=pjpeg",
+            "image_url": "https://target.scene7.com/is/image/Target/GUEST_5f91a99f-2a33-4c89-8dbf-db1243d413a2?wid=600&hei=600&qlt=85",
             "price": "29.99",
             "url": "https://www.target.com/p/-/A-1010892065",
-            "release_date": "2026-"
+            "release_date": "2026-09-16"
         },
         {
             "tcin": "1010892068",
@@ -51,7 +51,7 @@
             "set_code": "ME5.5",
             "set_name": "30th Celebration",
             "item_category": "Box",
-            "image_url": "",
+            "image_url": "https://target.scene7.com/is/image/Target/GUEST_65085291-1d03-4b66-8c88-729c7ac7b66b?wid=600&hei=600&qlt=85",
             "price": "29.99",
             "url": "https://www.target.com/p/-/A-1010892068",
             "release_date": "2026-09-16"
@@ -62,7 +62,7 @@
             "set_code": "ME5.5",
             "set_name": "30th Celebration",
             "item_category": "ETB",
-            "image_url": "",
+            "image_url": "https://target.scene7.com/is/image/Target/GUEST_40ed4d44-2adc-4cfe-a27b-0ce8b6e73cba?wid=600&hei=600&qlt=85",
             "price": "69.99",
             "url": "https://www.target.com/p/-/A-1010892076",
             "release_date": "2026-09-16"
@@ -73,7 +73,7 @@
             "set_code": "ME5.5",
             "set_name": "30th Celebration",
             "item_category": "3pk",
-            "image_url": "",
+            "image_url": "https://target.scene7.com/is/image/Target/GUEST_2dd4c0e4-c391-4284-b6d0-384f8999fd6a?wid=600&hei=600&qlt=85",
             "price": "18.99",
             "url": "https://www.target.com/p/-/A-1010892078",
             "release_date": "2026-09-16"
@@ -344,7 +344,7 @@
         },
         {
             "tcin": "1012644667",
-            "name": "Ascended Heroes Mega Emboar ex Tin",
+            "name": "Ascended Heroes Tin - Mega Emboar ex",
             "set_code": "ME2.5",
             "set_name": "Ascended Heroes",
             "item_category": "Tin",
@@ -355,7 +355,7 @@
         },
         {
             "tcin": "1012644665",
-            "name": "Ascended Heroes Mega Meganium ex Tin",
+            "name": "Ascended Heroes Tin - Mega Meganium ex",
             "set_code": "ME2.5",
             "set_name": "Ascended Heroes",
             "item_category": "Tin",
@@ -366,7 +366,7 @@
         },
         {
             "tcin": "1012644666",
-            "name": "Ascended Heroes Mega Feraligatr ex Tin",
+            "name": "Ascended Heroes Mega Tin - Feraligatr ex",
             "set_code": "ME2.5",
             "set_name": "Ascended Heroes",
             "item_category": "Tin",
@@ -503,7 +503,7 @@
             "set_name": "Mega Evolution Base Set",
             "item_category": "3pk",
             "price": 14.99,
-            "image_url": "https://target.scene7.com/is/image/Target/GUEST_30e48db5-067c-44ef-be8e-54e1ff01f7db?wid=800&hei=800&qlt=85",
+            "image_url": "https://target.scene7.com/is/image/Target/GUEST_30e48db5-067c-44ef-be8e-54e1ff01f7db?wid=600&hei=600&qlt=85",
             "url": "https://www.target.com/p/-/A-94681766",
             "release_date": null
         },
@@ -1972,7 +1972,7 @@
         },
         {
             "tcin": "1012944745",
-            "name": "Mega Forces Darkrai ex Tin",
+            "name": "Mega Forces Tin - Darkrai ex",
             "set_code": "ASS TIN",
             "set_name": "ASS TIN",
             "item_category": "Tin",
@@ -1983,7 +1983,7 @@
         },
         {
             "tcin": "1012944747",
-            "name": "Mega Forces Zeraora ex Tin",
+            "name": "Mega Forces Tin - Zeraora ex",
             "set_code": "ASS TIN",
             "set_name": "ASS TIN",
             "item_category": "Tin",
@@ -1994,7 +1994,7 @@
         },
         {
             "tcin": "1012944748",
-            "name": "Mega Forces Dragonite ex Tin",
+            "name": "Mega Forces Tin - Dragonite ex",
             "set_code": "ASS TIN",
             "set_name": "ASS TIN",
             "item_category": "Tin",
