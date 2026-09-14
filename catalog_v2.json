@@ -68,6 +68,17 @@
             "release_date": "2026-09-16"
         },
         {
+            "tcin": "1011407490",
+            "name": "30th Celebration Booster Bundle",
+            "set_code": "ME5.5",
+            "set_name": "30th Celebration",
+            "item_category": "Booster Bundle",
+            "image_url": "https://target.scene7.com/is/image/Target/GUEST_dced4296-9e16-4dfc-ba82-1cf211e03dbc?wid=600&hei=600&qlt=85",
+            "price": "31.99",
+            "url": "https://www.target.com/p/-/A-1011407490",
+            "release_date": "2026-09-16"
+        },
+        {
             "tcin": "1010892078",
             "name": "30th Celebration Tech Sticker Collection",
             "set_code": "ME5.5",
@@ -76,6 +87,39 @@
             "image_url": "https://target.scene7.com/is/image/Target/GUEST_2dd4c0e4-c391-4284-b6d0-384f8999fd6a?wid=600&hei=600&qlt=85",
             "price": "18.99",
             "url": "https://www.target.com/p/-/A-1010892078",
+            "release_date": "2026-09-16"
+        },
+        {
+            "tcin": "1012422107",
+            "name": "30th Celebration 30th Celebration Mini Tin",
+            "set_code": "ME5.5",
+            "set_name": "30th Celebration",
+            "item_category": "Box",
+            "image_url": "https://target.scene7.com/is/image/Target/GUEST_d468293a-fb30-4b49-ba4e-4af57b55a85a?wid=600&hei=600&qlt=85",
+            "price": "12.99",
+            "url": "https://www.target.com/p/-/A-1012422107",
+            "release_date": "2026-09-16"
+        },
+        {
+            "tcin": "1010892075",
+            "name": "30th Celebration Battle Deck — Espeon ex",
+            "set_code": "ME5.5",
+            "set_name": "30th Celebration",
+            "item_category": "Box",
+            "image_url": "https://target.scene7.com/is/image/Target/GUEST_79541c1b-7e30-4a74-92e9-d5f82a6526f9?wid=600&hei=600&qlt=85",
+            "price": "24.99",
+            "url": "https://www.target.com/p/-/A-1010892075",
+            "release_date": "2026-09-16"
+        },
+        {
+            "tcin": "1010892071",
+            "name": "30th Celebration Battle Deck — Umbreon ex",
+            "set_code": "ME5.5",
+            "set_name": "30th Celebration",
+            "item_category": "Box",
+            "image_url": "https://target.scene7.com/is/image/Target/GUEST_22f21ea8-6883-47a7-b04f-65f6a42d9148?wid=600&hei=600&qlt=85",
+            "price": "24.99",
+            "url": "https://www.target.com/p/-/A-1010892071",
             "release_date": "2026-09-16"
         },
         {
