@@ -1,5 +1,5 @@
 {
-    "version": "2026-08-29",
+    "version": "2026-10-04",
     "items": [
         {
             "tcin": "1010892069",
@@ -22,6 +22,17 @@
             "price": "19.99",
             "url": "https://www.target.com/p/-/A-1010892067",
             "release_date": "2026-09-16"
+        },
+        {
+            "tcin": "1010892074",
+            "name": "30th Celebration Binder Collection",
+            "set_code": "ME5.5",
+            "set_name": "30th Celebration",
+            "item_category": "Binder",
+            "image_url": "",
+            "price": "19.99",
+            "url": "https://www.target.com/p/-/A-1010892074",
+            "release_date": "2026-12-04"
         },
         {
             "tcin": "1010892070",
