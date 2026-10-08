@@ -2,6 +2,50 @@
     "version": "2026-10-04",
     "items": [
         {
+            "tcin": "1013166576",
+            "name": "Delta Reign Booster Box",
+            "set_code": "ME06",
+            "set_name": "Delta Reign",
+            "item_category": "Booster Box",
+            "image_url": "",
+            "price": "179.99",
+            "url": "https://www.target.com/p/-/A-1013166576",
+            "release_date": "2026-00-00"
+        },
+        {
+            "tcin": "1012793604",
+            "name": "Delta Reign ETB",
+            "set_code": "ME06",
+            "set_name": "Delta Reign",
+            "item_category": "ETB",
+            "image_url": "",
+            "price": "59.99",
+            "url": "https://www.target.com/p/-/A-1012793604",
+            "release_date": "2026-00-00"
+        },
+        {
+            "tcin": "1013166578",
+            "name": "Delta Reign Booster Bundle",
+            "set_code": "ME06",
+            "set_name": "Delta Reign",
+            "item_category": "Booster Bundle",
+            "image_url": "",
+            "price": "29.99",
+            "url": "https://www.target.com/p/-/A-1013166578",
+            "release_date": "2026-00-00"
+        },
+        {
+            "tcin": "1013166573",
+            "name": "Delta Reign Blister",
+            "set_code": "ME06",
+            "set_name": "Delta Reign",
+            "item_category": "3pk",
+            "image_url": "",
+            "price": "14.99",
+            "url": "https://www.target.com/p/-/A-1013166573",
+            "release_date": "2026-00-00"
+        },
+        {
             "tcin": "1010892069",
             "name": "30th Celebration Tin",
             "set_code": "ME5.5",
@@ -66,6 +110,61 @@
             "price": "29.99",
             "url": "https://www.target.com/p/-/A-1010892068",
             "release_date": "2026-09-16"
+        },
+        {
+            "tcin": "1012663804",
+            "name": "30th Celebration Ditto Premium Collection",
+            "set_code": "ME5.5",
+            "set_name": "30th Celebration",
+            "item_category": "Box",
+            "image_url": "",
+            "price": "",
+            "url": "https://www.target.com/p/-/A-1012663804",
+            "release_date": "2026-00-00"
+        },
+        {
+            "tcin": "1012850573",
+            "name": "30th Celebration Figure Collection - Mewtwo",
+            "set_code": "ME5.5",
+            "set_name": "30th Celebration",
+            "item_category": "Box",
+            "image_url": "",
+            "price": "",
+            "url": "https://www.target.com/p/-/A-1012850573",
+            "release_date": "2026-00-00"
+        },
+        {
+            "tcin": "1012793603",
+            "name": "30th Celebration Figure Collection - Mew",
+            "set_code": "ME5.5",
+            "set_name": "30th Celebration",
+            "item_category": "Box",
+            "image_url": "",
+            "price": "",
+            "url": "https://www.target.com/p/-/A-1012793603",
+            "release_date": "2026-00-00"
+        },
+        {
+            "tcin": "1012850570",
+            "name": "30th Celebration Ultra-Premium Collection - Day",
+            "set_code": "ME5.5",
+            "set_name": "30th Celebration",
+            "item_category": "UPC",
+            "image_url": "",
+            "price": "249.99",
+            "url": "https://www.target.com/p/-/A-1012850570",
+            "release_date": "2026-00-00"
+        },
+        {
+            "tcin": "1012850572",
+            "name": "30th Celebration Ultra-Premium Collection - Night",
+            "set_code": "ME5.5",
+            "set_name": "30th Celebration",
+            "item_category": "UPC",
+            "image_url": "",
+            "price": "249.99",
+            "url": "https://www.target.com/p/-/A-1012850572",
+            "release_date": "2026-00-00"
         },
         {
             "tcin": "1010892076",
