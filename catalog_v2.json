@@ -1,5 +1,5 @@
 {
-    "version": "2026-10-04",
+    "version": "2026-10-08",
     "items": [
         {
             "tcin": "1013166576",
@@ -2368,6 +2368,10 @@
         }
     ],
     "category_names": {
+        "ME06": {
+            "display_name": "ME06 - Delta Reign",
+            "image": "https://rarecards.nl/cdn/shop/articles/delta_reign_logo_21126973-e9e1-4dc0-8f8a-03879cc89e80.jpg"
+        },
         "ME5.5": {
             "display_name": "ME5.5 - 30TH CELEBRATION",
             "image": "https://www.nintendojo.com/wp-content/uploads/2026/07/Pokemon-30-Product-Lineup-Masthead-2048x1152.png"
