@@ -1,5 +1,5 @@
 {
-    "version": "2026-10-08",
+    "version": "2026-10-15",
     "items": [
         {
             "tcin": "1013166576",
@@ -7,7 +7,7 @@
             "set_code": "ME06",
             "set_name": "Delta Reign",
             "item_category": "Booster Box",
-            "image_url": "",
+            "image_url": "https://target.scene7.com/is/image/Target/GUEST_5c37cdaf-4aba-4d9f-a0a2-a7cdb408c37a",
             "price": "179.99",
             "url": "https://www.target.com/p/-/A-1013166576",
             "release_date": "2026-00-00"
@@ -18,7 +18,7 @@
             "set_code": "ME06",
             "set_name": "Delta Reign",
             "item_category": "ETB",
-            "image_url": "",
+            "image_url": "https://target.scene7.com/is/image/Target/GUEST_caf85bbf-d82a-4818-ae0e-166fde1ba2c4",
             "price": "59.99",
             "url": "https://www.target.com/p/-/A-1012793604",
             "release_date": "2026-00-00"
@@ -29,7 +29,7 @@
             "set_code": "ME06",
             "set_name": "Delta Reign",
             "item_category": "Booster Bundle",
-            "image_url": "",
+            "image_url": "https://target.scene7.com/is/image/Target/GUEST_60c0c82c-ced8-44a4-bbda-848bd235f102",
             "price": "29.99",
             "url": "https://www.target.com/p/-/A-1013166578",
             "release_date": "2026-00-00"
@@ -40,7 +40,7 @@
             "set_code": "ME06",
             "set_name": "Delta Reign",
             "item_category": "3pk",
-            "image_url": "",
+            "image_url": "https://target.scene7.com/is/image/Target/GUEST_48a61987-fdbd-4c46-aa65-5ee3c007471b",
             "price": "14.99",
             "url": "https://www.target.com/p/-/A-1013166573",
             "release_date": "2026-00-00"
@@ -117,8 +117,8 @@
             "set_code": "ME5.5",
             "set_name": "30th Celebration",
             "item_category": "Box",
-            "image_url": "",
-            "price": "",
+            "image_url": "https://target.scene7.com/is/image/Target/GUEST_82170e49-e108-4cf7-bd78-dc227820e66f",
+            "price": "49.99",
             "url": "https://www.target.com/p/-/A-1012663804",
             "release_date": "2026-00-00"
         },
@@ -128,8 +128,8 @@
             "set_code": "ME5.5",
             "set_name": "30th Celebration",
             "item_category": "Box",
-            "image_url": "",
-            "price": "",
+            "image_url": "https://target.scene7.com/is/image/Target/GUEST_b5cadd3b-c77c-43aa-9c05-e9a89dbf7867",
+            "price": "39.99",
             "url": "https://www.target.com/p/-/A-1012850573",
             "release_date": "2026-00-00"
         },
@@ -139,8 +139,8 @@
             "set_code": "ME5.5",
             "set_name": "30th Celebration",
             "item_category": "Box",
-            "image_url": "",
-            "price": "",
+            "image_url": "https://target.scene7.com/is/image/Target/GUEST_717c962d-4046-4c1a-a60c-2c9817f07845",
+            "price": "39.99",
             "url": "https://www.target.com/p/-/A-1012793603",
             "release_date": "2026-00-00"
         },
@@ -150,7 +150,7 @@
             "set_code": "ME5.5",
             "set_name": "30th Celebration",
             "item_category": "UPC",
-            "image_url": "",
+            "image_url": "https://target.scene7.com/is/image/Target/GUEST_1d1a3925-2c35-44db-b792-7d94a550cb9f",
             "price": "249.99",
             "url": "https://www.target.com/p/-/A-1012850570",
             "release_date": "2026-00-00"
@@ -161,7 +161,7 @@
             "set_code": "ME5.5",
             "set_name": "30th Celebration",
             "item_category": "UPC",
-            "image_url": "",
+            "image_url": "https://target.scene7.com/is/image/Target/GUEST_d4fcd0bd-c6b3-4145-983d-c5b89dc5b17c",
             "price": "249.99",
             "url": "https://www.target.com/p/-/A-1012850572",
             "release_date": "2026-00-00"
