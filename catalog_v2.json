@@ -1,5 +1,5 @@
 {
-    "version": "2026-10-30",
+    "version": "2026-11-02",
     "items": [
         {
             "tcin": "1013166576",
@@ -770,6 +770,17 @@
             "image_url": "https://target.scene7.com/is/image/Target/GUEST_b1b7bba7-1c2c-422f-9b6e-7bac63b86b77?wid=600&hei=600&qlt=85",
             "url": "https://www.target.com/p/-/A-94636854",
             "release_date": null
+        },
+        {
+            "tcin": "1013645543",
+            "name": "BBWF Heavy Hitters Premium Collection",
+            "set_code": "SV10.5",
+            "set_name": "SV10.5",
+            "item_category": "Box",
+            "price": 79.99,
+            "image_url": "",
+            "url": "https://www.target.com/p/-/A-1013645543",
+            "release_date": "2027-01-01"
         },
         {
             "tcin": "94681760",
