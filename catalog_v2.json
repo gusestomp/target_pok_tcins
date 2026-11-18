@@ -215,7 +215,7 @@
             "name": "30th Celebration Battle Deck — Espeon ex",
             "set_code": "ME5.5",
             "set_name": "30th Celebration",
-            "item_category": "Box",
+            "item_category": "Deck",
             "image_url": "https://target.scene7.com/is/image/Target/GUEST_79541c1b-7e30-4a74-92e9-d5f82a6526f9?wid=600&hei=600&qlt=85",
             "price": "24.99",
             "url": "https://www.target.com/p/-/A-1010892075",
@@ -226,7 +226,7 @@
             "name": "30th Celebration Battle Deck — Umbreon ex",
             "set_code": "ME5.5",
             "set_name": "30th Celebration",
-            "item_category": "Box",
+            "item_category": "Deck",
             "image_url": "https://target.scene7.com/is/image/Target/GUEST_22f21ea8-6883-47a7-b04f-65f6a42d9148?wid=600&hei=600&qlt=85",
             "price": "24.99",
             "url": "https://www.target.com/p/-/A-1010892071",
@@ -2483,6 +2483,7 @@
         "3pk": 7,
         "2pk": 8,
         "UPC": 9,
-        "Tin": 10
+        "Tin": 10,
+        "Deck": 11
     }
 }
